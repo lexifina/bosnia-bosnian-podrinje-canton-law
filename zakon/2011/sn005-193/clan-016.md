@@ -1,0 +1,7 @@
+Član 16.
+(Uslovi za specijalnu pogodbu)
+(1) U aktu o specijalnom raspolaganju Skupština Kantona će odrediti uslove specijalnog raspolaganja, kao što su: cijenu, odnosno visinu naknade koja se dobiva za ustupanje osobi kojoj se vrši ustupanje, uslove koje sticalac mora ispuniti, ograničenja kao što su ograničenje raspolaganja ili opterećivanja, sredstva osiguranja ispunjenja obaveza, način praćenja ispunjenja obaveza od strane sticaoca, obaveze koje mogu proizaći iz propisa koji uređuju oblast restitucije, posljedice neispunjenja obaveza sticaoca, a posebno obavezu vraćanja imovinskog dobra kojim se raspolaže u slučaju neispunjenja obaveza, kao i druge uslove koji se smatraju bitnim.
+(2) Obavezni uslov za specijalnu pogodbu je obaveza povećanja zaposlenih u Kantonu za najmanje 1 % i srazmjerno uvećenje javnih prihoda koji pripadaju Kantonu.
+(3) Prilikom određivanja visine cijene, odnosno naknade za raspolaganje, Skupština Kantona može odlučiti da ona bude znatno niža od tržišne, a u iznimnim slučajevima da se raspolaganje izvrši i bez naknade.
+(4) Ukoliko Skupština Kantona ne prihvati prijedlog za specijalnu pogodbu, to ne isključuje mogućnost provođenja postupka redovnog raspolaganja.
+(5) Iznos umanjenja tržišne vrijednosti cijene iz stava 3. ovog člana ne može biti veći od očekivanog iznosa uvećanja javnih prihoda po osnovu poreza na plaću, doprinosa za obavezno zdravstveno osiguranje i doprinosa za slučaj nezaposlenosti osiguranje, u periodu od tri godine od trenutka zaključenja ugovora o raspolaganju imovinom.
