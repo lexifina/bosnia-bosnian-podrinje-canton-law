@@ -1,0 +1,2 @@
+Član 1.
+U Zakonu o preuzimanju prava osnivača nad Javnom ustanovom Srednja stručna škola „Džemal Bijedić “ Goražde („Službene novine Bosansko–podrinjskog kantona Goražde“ broj: 6/98) član 6. se mijenja i glasi: „DJELATNOST ŠKOLE 85.3 SREDNJE OBRAZOVANJE 85.31 Opće srednje obrazovanje 85.32 Tehničko i stručno srednje obrazovanje 85.5 OSTALO OBRAZOVANJE I PODUČAVANJE 85.59 Ostalo obrazovanje i podučavanje 85.6 POMOĆNE USLUŽNE DJELAT-OSTI U OBRAZOVANJU 85.60 Pomoćne uslužne djelatnosti u obrazovanju“
