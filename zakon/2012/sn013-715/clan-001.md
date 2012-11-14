@@ -1,0 +1,2 @@
+Članak 1.
+U Zakonu o Radio–televiziji Bosansko–podrinjskog kantona Goražde („Službene novine Bosansko–podrinjskog kantona Goražde“, broj: 7/02, 8/09 i 11/12) u članku 6. DJELATNOST JP RTV BPK GORAŽDE iza oblasti „60. Emitiranje programa“ dodaje se oblast „61. Telekomunikacije 61.1 Djelatnost žičane telekomunikacije 61.2 Djelatnost bežične telekomunikacije 61.3 Djelatnost satelitske telekomunikacije 61.9 Ostale telekomunikacijske djelatnosti“
