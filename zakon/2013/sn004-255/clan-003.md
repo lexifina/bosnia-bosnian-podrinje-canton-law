@@ -1,0 +1,9 @@
+Član 3.
+(Definicije)
+U smislu ovog Zakona, pojedini izrazi imaju sljedeće značenje:
+a) „Poljoprivredna djelatnost“ podrazumijeva privrednu djelatnost koja obuhvata biljnu i animalnu proizvodnju i sa njima povezane uslužne djelatnosti u skladu sa standardnom klasifikacijom djelatnosti u Bosni i Hercegovini.
+b) “Poljoprivredno gazdinstvo” podrazumijeva proizvodnu jedinicu ili grupu jedinica koje čine proizvodnu cjelinu i sa tehničkog i privrednog gledišta, koje se bave proizvodnjom poljoprivrednih proizvoda; gazdinstvo se može baviti i drugim djelatnostima (nepoljoprivrednim) proizvodnim i uslužnim djelatnostima.
+Poljoprivredno gazdinstvo može djelovati kao privredno društvo, obrt ili zadruga ako je registrovano za obavljanje poljoprivredne djelatnosti, te kao porodično poljoprivredno gazdinstvo.
+c) „Porodično poljoprivredno gazdinstvo“ je samostalna privredna i socijalna jedinica zasnovana na vlasništvu i/ili upotrebi proizvodnih resursa i upravljanju porodice u obavljanju poljoprivredne djelatnosti.
+d) „Nosilac poljoprivrednog gazdinstva“ podrazumijeva fizičko ili pravno lice, ili grupu fizičkih i pravnih lica u skladu sa statusom koji ima grupa i njeni članovi prema zakonima u Bosni i Hercegovini i Federaciji Bosne i Hercegovine, a čije se gazdinstvo nalazi na teritoriji kantona, te obavlja poljoprivrednu djelatnost i koji je u Registru poljoprivrednih gazdinstava upisan kao nosilac gazdinstva. Vlasnik obrta registrovanog za obavljanje poljoprivredne djelatnosti je ujedno i nosilac poljoprivrednog gazdinstva. Ovlašteni zastupnik privrednog društva ili zadruge registrovane za obavljanje poljoprivredne djelatnosti je nosilac poljoprivrednog gazdinstva.
+e) „Korisnikom-klijentom“ se smatraju fizička i pravna lica koja žele ostvariti pravo na podrške u poljoprivredi i ruralnom razvoju i koja se kao takva upisuju u Registar klijenata.
