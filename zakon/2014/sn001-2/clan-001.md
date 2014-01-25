@@ -1,0 +1,5 @@
+Članak 1.
+U Zakonu o sportu Bosansko-podrinjskog kantona Goražde („Službene novine Bosansko-podrinjskog kantona Goražde”, broj: 8/11) u članku 31. iza stavka (2) dodaju se stavci (3), (4) i (5) koji glase:
+(3) „Ako zbog nerazvijenosti sporta na području Kantona ne postoji organiziran sportski savez za sport i rekreaciju osoba sa invaliditetom Kantona sukladno stavkom (1) ovog članka, registracija saveza na razini Kantona izvršit će se uz suglasnost Ministarstva, nakon utemeljenja sportskih klubova osoba sa invaliditetom, koji nemaju status pravne osobe i djeluju u sklopu Sportskog saveza za sport i rekreaciju osoba sa invaliditetom Kantona, do ispunjenja uvjeta iz stavka (1) ovog članka.
+(4) Odluku o utemeljenju sportskih klubova osoba sa invaliditetom, koji nemaju status pravne osobe, donosi Skupština Sportskog saveza za sport i rekreaciju osoba sa invaliditetom Kantona.
+(5) Sportski klubovi osoba sa invaliditetom koji nemaju status pravne osobe svoje aktivnosti provode sukladno ovom Zakonu, zakonima i propisima kojima se uređuje sport i posebnim odlukama Ministarstva”.

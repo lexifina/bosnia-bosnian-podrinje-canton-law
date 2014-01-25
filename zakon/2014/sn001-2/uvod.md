@@ -1,0 +1,2 @@
+Na temelju poglavlja IV. odjeljak A. članka 23. točka b) Ustava Bosansko-podrinjskog kantona Goražde (“Službene novine Bosansko-podrinjskog kantona Goražde”, broj: 8/98, 10/00 i 5/03), članka 75. Zakona o sportu u Bosni i Hercegovini („Službeni glasnik Bosne i Hercegovine”, broj: 27/08, 102/09) i članka 106. Poslovnika Skupštine Bosansko-podrinjskog kantona Goražde („Službene novine Bosansko-podrinjskog kantona Goražde”, broj:10/08), Skupština Bosansko-podrinjskog kantona Goražde, na
+29. redovitoj sjednici, održanoj 16.01.2014. godine, d o n o s i:
