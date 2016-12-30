@@ -1,0 +1,1 @@
+Na osnovu Poglavlja IV, Odjeljak A, člana 23. tačka b) Ustava Bosansko-podrinjskog kantona Goražde („Službene novine Bosansko-podrinjskog kantona Goražde“, broj: 8/98, 10/00 i 5/03), Skupština Bosansko-podrinjskog kantona Goražde, na 19. redovnoj sjednici, održanoj 20.12.2016. godine, d o n o s i:
