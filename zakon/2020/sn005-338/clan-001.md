@@ -1,0 +1,3 @@
+Članak 1.
+U članku 10. u stavku (1) Zakona naknadama plaća poslanika i plaćama funkcionera koje bira, imenuje ili čiji izbor i imenovanje potvrđuje Skupština Bosansko-podrinjskog kantona Goražde („Službene novine Bosansko-podrinjskog kantona Goražde“, broj: 9/07, 3/08, 6/14 i 8/15), u zadnjem redu iza riječi: „statistiku“, dodaju se riječi koje glase:
+„Koji se umanjuje za 10%, u vremenskom periodu trajanja izvanrednog stanja nesreće izazvanog pandemijom korona virus i mjesec dana nakon prestanka stanja nesreće i uplaćuje u poseban fond za pomoć gospodarskim subjektima – ekonomski kod 614500 – Subvencija poduzetništvu i obrtu, privatnim poduzećima i poduzetnicima“.

@@ -1,0 +1,3 @@
+Članak 2.
+U članku 14. stavak (2) Zakona o naknadama plaća poslanika i plaćama funkcionera koje bira, imenuje ili čiji izbor i imenovanje potvrđuje Skupština Bosansko-podrinjskog kantona Goražde („Službene novine Bosansko-podrinjskog kantona Goražde“, broj: 9/07, 3/08, 6/14 i 8/15) se mijenja i glasi:
+„Osnovna plaća za imenovane funkcionere umanjuje se za 10% u periodu trajanja izvanrednog stanja nesreće izazvanog pandemijom korona virus i mjesec dana nakon prestanka stanja nesreće, a uplaćuje se u poseban fond za pomoć gospodarskim subjektima – ekonomski kod 614500 – Subvencija poduzetništvu i obrtu, privatnim poduzećima i poduzetnicima“.
