@@ -1,0 +1,3 @@
+Članak 1.
+U Zakonu o ublažavanju negativnih posljedica uzrokovanih stanjem nesreće („Službene novine Bosansko-podrinjskog kantona Goražde“, broj: 5/20), u članku 7. iza stavka (4) dodaje se novi stavak (5), koji glasi:
+„(5) Sredstva izdvojena po ovom Zakonu mogu se koristiti za pomoć korisnicima subvencije iz članka 3. ovog Zakona, koji su u vrijeme trajanja pandemije koronavirusa imali znatno otežane uvjete poslovanja, koji su doveli do pada prihoda u odnosu na prihode ostvarene u istom periodu prethodne godine, a taj pad prihoda nastao je kao rezultat umanjenih gospodarskih aktivnosti izazvanih stanjem prirodne nesreće. Na ove subjekte ne odnosi se točka c) iz članka 8. ovog Zakona“.
