@@ -1,0 +1,10 @@
+Član 25.
+(Promjene na posebnom dijelu zgrade)
+(1) Etažni vlasnik ovlašten je, ne tražeći za to odobrenje od ostalih etažnih vlasnika, u skladu s građevinskim propisima, o svome trošku izvršiti prepravke u stanu ili drugom posebnom dijelu zgrade, uključujući i promjenu namjene, ako se pridržava sljedećih pravila:
+a) Promjena ne smije prouzrokovati oštećenje zgrade i drugih dijelova nekretnine, a ni povredu onih interesa ostalih etažnih vlasnika koji zaslužuju zaštitu, naročito ne smije prouzrokovati povredu vanjskoga izgleda zgrade, ni opasnost za sigurnost lica, zgrade ili drugih stvari;
+b) Ako bi za promjenu bilo potrebno zadrijeti u zajedničke dijelove zgrade, to je dopušteno samo ako je takva promjena uobičajena ili služi interesu vlasnika posebnoga dijela, inače je svaki etažni vlasnik može zabraniti, ali ne može zabraniti postavljanje vodova za svjetlo, plin, energiju, vodu i telefon i sličnih uređaja, a ni postavljanje radijskih ili televizijskih antena, potrebnih prema stanju tehnike, ako nije moguć ili nije odobren priključak na postojeću antenu;
+c) Radi promjena na svome dijelu nije dopušteno zadrijeti u one dijelove nekretnine koji su kao posebni dio u vlasništvu drugoga etažnog vlasnika bez njegova odobrenja, ali taj etažni vlasnik će morati trpjeti promjene kojima se bitno i trajno ne povređuje njegovo pravo na posebnom dijelu zgrade;
+d) Etažni vlasnik posebnoga dijela koji provodi promjene na svome dijelu dužan je dati primjerenu naknadu drugom etažnom vlasniku čija je prava time povrijedio i kad je taj bio dužan trpjeti tu povredu.
+(2) Ako je za promjenu namjene iz stava
+(1) ovoga člana potrebna dozvola nadležnog organa, drugi etažni vlasnici koji tu promjenu moraju trpjeti ne mogu uskratiti svoj pristanak kad je on potreban, te odgovaraju za štetu koju bi prouzrokovali svojim uskraćivanjem.
+(3) Etažni vlasnik, tokom prepravke odnosno rekonstrukcije u svom stanu ili drugom posebnom dijelu zgrade, ne smije mijenjati vanjski izgled stambene zgrade te mijenjati uvjete pod kojim je zgrada izgrađena.
