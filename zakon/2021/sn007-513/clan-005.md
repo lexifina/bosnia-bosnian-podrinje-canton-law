@@ -1,0 +1,3 @@
+Članak 5.
+(Organizacija civilne zaštite)
+Mjere i aktivnosti iz članka 4. ovog Zakona na području Kantona ostvaruju se putem civilne zaštite koja predstavlja organizirani oblik zaštite i spašavanja ljudi i materijalnih dobara od prirodnih i drugih nesreća, a čija organizacija obuhvata: osobnu i uzajamnu zaštitu građana, mjere zaštite i spašavanja, stožere civilne zaštite, povjerenike civilne zaštite, službe zaštite i spašavanja, jedinice civilne zaštite, rukovođenje i uporabu snaga i sredstava civilne zaštite i Kantonalna uprava civilne zaštite (u daljem tekstu: Kantonalna uprava) i službe civilne zaštite općina.

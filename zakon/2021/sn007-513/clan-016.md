@@ -1,0 +1,2 @@
+Članak 16.
+(Službe zaštite i spašavanja) Službe zaštite i spašavanja su poseban organizirani oblik civilne zaštite čije je organiziranje, funkcioniranje, kao i njihova nadležnost i način rada propisan Zakonom o zaštiti i spašavanju i Pravilnikom o organiziranju službi zaštite i spašavanja i jedinica civilne zaštite, njihovim poslovima i načinu rada („Službene novine Federacije Bosne i Hercegovine“, broj: 77/06).

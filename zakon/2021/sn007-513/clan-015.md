@@ -1,0 +1,2 @@
+Članak 15.
+(Povjerenici civilne zaštite) Povjerenici civilne zaštite su organizirane snage civilne zaštite i način njihovog organiziranja i funkcioniranja, kao i njihova osnovna prava i dužnosti, odnosno mjesto i uloga u sustavu zaštite i spašavanja regulirani su Zakonom o zaštiti i spašavanju i Pravilnikom o načinu rada i funkcioniranja stožera i povjerenika civilne zaštite („Službene novine Federacije Bosne i Hercegovine“, broj: 77/06 i 5/07).

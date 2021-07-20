@@ -1,0 +1,2 @@
+Članak 22.
+(Nadležnost gradskih i općinskih organa) Grad i općine na području Kantona su dužni svojim propisom utvrditi nadležnost gradskog i općinskog vijeća, gradonačelnika i općinskog načelnika, gradskih i općinskih službi za upravu, službe civilne zaštite grada i općine i gradskog i općinskog stožera u oblasti zaštite i spašavanja, koja su Zakonom o zaštiti i spašavanju i ovim Zakonom stavljena u nadležnost grada i općine.
