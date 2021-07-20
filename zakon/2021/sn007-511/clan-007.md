@@ -1,0 +1,2 @@
+Članak 7.
+Kada to zahtijevaju potrebe službe (dežurstva, obuka i vježbe, provjeru pripravnosti stožera, jedinica i službi civilne zaštite, akcije zaštite i spašavanja, te drugi neodgodivi poslovi) državni službenici i namještenici Uprave dužni su te poslove obavljati i duže od punog radnog vremena. Iznimno, u uvjetima prirodnih i drugih nesreća zbog posebnih uvjeta rada sredstva za plaće rukovoditelja, državnih službenika i namještenika Kantonalne uprave mogu biti uvećana do 20%.
