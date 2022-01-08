@@ -1,0 +1,8 @@
+POGLAVLJE IV - ORGANIZACIJA I FUNKCIONISANJE, PLANIRANJE I PROVOĐENJE MJERA ZAŠTITE OD POŽARA I VATROGASTVA Odjeljak A. Kantonalna uprava civilne zaštite
+Član 18.
+(Obaveze Kantonalne uprave u izradi planskih dokumenata)
+(1) Kantonalna uprava je nosilac aktivnosti oko priprema i izrade planskih dokumenata Kantona, i to:
+a) Procjene ugroženosti od požara Kantona, u okviru procjene ugroženosti od prirodnih i drugih nesreća u Kantonu, uz obavezno učešće subjekata iz člana 13. stav
+(2) tačka b) ovog Zakona, a uzimajući u obzir općinske procjene ugroženosti od požara. Način izrade i sadržaj procjene ugroženosti od požara regulisan je propisom Vlade Federacije;
+b) Programa razvoja zaštite od požara i vatrogastva, u okviru Programa razvoja zaštite i spašavanja od prirodnih i drugih nesreća Kantona. Program razvoja zaštite od požara i vatrogastva obuhvata politiku, strategiju i akcione planove, u okviru kojih se definira vizija, načela, opredjeljenja, ciljevi i područja razvoja za organiziranje i provođenje zaštite od požara i vatrogastvo, sa svim elementima potrebnim za njegovo usavršavanje i efikasno funkcionisanje od značaja za Kanton, za period od najmanje pet godina;
+c) Plana zaštite od požara Kantona, uz obavezno učešće subjekata iz člana 13. stav (2) tačka b) ovog Zakona. Način izrade i sadržaj plana zaštite od požara propisan je podzakonskim aktom Vlade Federacije. Plan se izrađuje na osnovu procjene ugroženosti od požara na području Kantona i kadrovskim, materijalnim i drugim uvjetima koji su od značaja za tu zaštitu, uz obavezno uzimanje u obzir potreba utvrđenih u procjenama ugroženosti od požara svih općina sa područja Kantona.

@@ -1,0 +1,3 @@
+Član 7.
+(Pojam vatrogastva)
+Vatrogastvo obuhvata skup mjera i radnji upravne, organizacijske, stručne, kadrovske, tehničke, obrazovne i propagandne prirode, koje se poduzimaju u cilju gašenja požara i spašavanja ljudi i materijalnih dobara ugroženih požarom, te pružanje tehničke pomoći u akcidentnim situacijama.

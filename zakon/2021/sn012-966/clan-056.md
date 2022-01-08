@@ -1,0 +1,5 @@
+Član 56.
+(Inspektori Kantonalne uprave civilne zaštite)
+(1) Poslove inspekcijskog nadzora iz člana 55. ovog Zakona iz oblasti zaštite od požara i vatrogastva obavljaju kantonalni inspektor zaštite od požara i kantonalni inspektor za vatrogastvo, koji imaju prava i dužnosti inspektora utvrđena u Zakonu o organizaciji organa uprave u Federaciji Bosne i Hercegovine („Službene novine Federacije BiH“, broj: 35/05) i članom 10. Zakona o Kantonalnoj upravi za civilnu zaštitu Bosansko-podrinjskog kantona Goražde („Službene novine Bosansko-podrinjskog kantona Goražde”, broj: 7/21).
+(2) Inspekcijski nadzor se provodi po pravilima Zakona o upravnom postupku („Službene novine Federacije BiH,“ broj: 2/98 i 48/99).
+(3) Kantonalni inspektori iz stava (1) ovog člana mogu biti lica koja imaju najmanje visoku stručnu spremu, VII stepen, iz oblasti zaštite od požara, sigurnosti i tehničkih struka koje su utvrđene u propisu iz člana 159. tačka 1. Federalnog zakona i najmanje pet godina radnog staža, s tim da inspektor za vatrogastvo mora imati položen i ispit za rukovodioca akcije gašenja požara.
