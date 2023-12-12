@@ -1,0 +1,5 @@
+Član 16.
+(Organizacija i provođenje obuke)
+(1) Organizacija i provođenje Programa teoretske i praktične obuke za certificiranje poljoprivrednih savjetodavaca, polaganje stručnog ispita i izdavanje certifikata, organizacija i provođenje Programa obavezne obuke poljoprivrednih savjetodavaca je u nadležnosti Federalnog ministarstva poljoprivrede, vodoprivrede i šumartsva.
+(2) Poslove iz stava (1) ovog člana Federalno ministarstvo poljoprivrede, vodoprivrede i šumarstva može povjeriti visokoškolskim ustanovama i/ili stručnim upravnim organizacijama u Federaciji registrovanim za obrazovanje u poljoprivredi, a u skladu sa Zakonom o organizaciji organa uprave u Federaciji Bosne i Hercegovine („Službene novine Federacije BiH“, broj: 35/05).
+(3) Obuka se organizuje u vidu predavanja, obuke na daljinu putem interneta, praktične nastave, vježbi izrade poslovnih planova, izrade programa i projekata, vođenja poljoprivrednog knjigovodstva i sl., zavisno od oblasti za koju se savjetodavac specijalizuje.

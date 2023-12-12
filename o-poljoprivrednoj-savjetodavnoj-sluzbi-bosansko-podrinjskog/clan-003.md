@@ -1,0 +1,8 @@
+Član 3.
+(Osnovni pojmovi)
+(1) Poljoprivredna savjetodavna djelatnost (u daljem tekstu: savjetodavna djelatnost) je skup mjera koje se pružaju vršiocima poljoprivredne djelatnosti u cilju povećanja nivoa znanja i poboljšanja praktičnih vještina, a radi povećanja poljoprivredne proizvodnje;
+(2) Javna savjetodavna služba je služba koja pruža savjetodavne usluge na teritoriji Kantona i vrše je: Kantonalno ministarstvo za privredu (u daljem tekstu: Kantonalno ministarstvo), gradska i općinske službe nadležne za poslove poljoprivrede, koje ispunjavaju uvjete propisane ovim Zakonom;
+(3) Poljoprivredni savjetodavac (u daljem tekstu: savjetodavac) je fizičko lice koje obavlja savjetodavnu djelatnost na stručnom osnovu, posjeduje certifikat o položenom stručnom ispitu i upisano je u Registar poljoprivrednih savjetodavaca (u daljem tekstu: Registar savjetodavaca);
+(4) Certifikat za poljoprivrednog savjetodavca (u daljem tekstu: certifikat) je isprava kojom se dokazuje potrebni nivo stručne spreme za fizička lica koja vrše poslove savjetodavca i na osnovu kojeg se dozvoljava obavljanje savjetodavne djelatnosti, a stiče se nakon položenog stručnog ispita za savjetodavca;
+(5) Dozvola za rad (licenca) je isprava koju izdaje Federalno ministarstvo poljoprivrede, vodoprivrede i šumarstva privatnim savjetodavnim službama i na osnovu koje se vrši upis u Registar službi;
+(6) Poljoprivrednik je fizičko lice koje na poljoprivrednom gazdinstvu proizvodi biljne i stočarske proizvode te obavlja i druge poslove vezane uz tu proizvodnju, bez obzira na stepen specijalizacije poljoprivrednog gazdinstva na kojem radi i koje posjeduje znanje i vještinu o poljoprivredi.
