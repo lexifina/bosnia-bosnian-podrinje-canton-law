@@ -1,0 +1,2 @@
+Na temelju poglavlja IV, odjeljak A, članka 23. Ustava Bosansko-podrinjskog kantona Goražde („Službene novine Bosansko-podrinjskog kantona Goražde“ broj: 8/98, 10/00, 5/03 i 8/04) i članka 109. Poslovnika Skupštine Bosansko-podrinjskog kantona Goražde „Službene novine Bosansko-podrinjskog kantona Goražde“, broj: 3/18 i 6/19), Skupština Bosansko-podrinjskog kantona Goražde, na 10. redovitoj sjednici, održanoj
+28. prosinca 2023. godine, d o n o s i:
