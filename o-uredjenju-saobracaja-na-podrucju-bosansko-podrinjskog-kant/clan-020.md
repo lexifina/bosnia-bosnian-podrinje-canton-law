@@ -1,0 +1,4 @@
+Član 20.
+(Mjere za otklanjanje smetnji)
+(1) U slučaju prekida ili ugrožavanja saobraćaja na javnoj cesti zbog nanosa, odrona ili klizanja terena ili drugih uzroka, kao i u slučaju oštećenja kolovoza koja u većoj mjeri ugrožavaju sigurnost saobraćaja, nadležna institucija koja upravlja cestama odmah po saznanju na uočenoj lokaciji postavlja privremenu saobraćajnu signalizaciju, te preduzima mjere za otklanjanjem smetnji i uspostavljanje sigurnog saobraćaja.
+(2) U slučaju događaja iz stava (1) ovog člana, saobraćajna signalizacija se postavlja u skladu sa odredbama člana 20. ZOSS-a i važećeg Pravilnika o saobraćajnim znakovima i signalizaciji na cestama, načinu obilježavanja radova i prepreka na cesti i znakovima koje učesnicima u saobraćaju daje ovlašteno lice, ako ne postoje uvjeti u pogledu vremena izrade elaborata saobraćajne signalizacije i opreme ceste.
