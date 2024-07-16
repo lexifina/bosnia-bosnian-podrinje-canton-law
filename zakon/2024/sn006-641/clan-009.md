@@ -1,0 +1,2 @@
+Članak 9.
+U članku 28. stavak (1) se mijenja i glasi: „(1) Direkcija će vršiti pregled stanja skladišta permanentno. Za robu, opremu ili stvari koje su uskladištene duže od 90 dana, subjekat koji ih je deponovao izvršit će izmještanje ili otpis istih u roku od 8 dana od dana prijema pismenog obavještenja od strane Direkcije. Ukoliko organ ne postupi u smislu odredbi ovog članka, roba se smatra otpisanom „ex lege“ - po sili zakona“.
