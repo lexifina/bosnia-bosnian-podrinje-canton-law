@@ -1,0 +1,9 @@
+Članak 4.
+(Dostavljanje podataka i postupanje po zahtjevu Pravobraniteljstva)
+(1) Državni organi, poduzeća (društva) i druge pravne osobe dužne su Pravobraniteljstvu dostavljati podatke i obavještenja o ugrožavanju, narušavanju ili osporavanju prava i stvari u vlasništvu Kantona radi poduzimanja pravnih radnji i sredstava za koje je Pravobraniteljstvo ovlašteno.
+(2) Organi i pravne osobe iz stavka (1) ovog članka dužni su, na zahtjev Pravobraniteljstva, dostaviti podatke, obavještenja i spise koji su mu potrebni za poduzimanje radnji za koje je ovlašteno.
+(3) Pravobraniteljstvo poduzima pravne radnje i sredstva za ostvarivanje funkcije iz članka 1. ovog Zakona i na vlastitu inicijativu.
+(4) Kada Pravobraniteljstvo mora postupati u propisanom zakonskom roku, organi i organizacije iz stavaka (1) i
+(2) ovog članka su dužni da pravobranitelju neodložno dostave spise i obavještenja, odnosno pruže podatke i objašnjenja koja Pravobraniteljstvo zatraži.
+(5) Ako zbog nepostupanja, odnosno neblagovremenog postupanja organa i organizacija iz stavaka (1) i (2) ovog članka nastupi šteta za Kanton ili druge subjekte koje zastupa, Pravobraniteljstvo o tome obavještava ministarstvo koje je ovlašteno da vrši nadzor nad radom tog organa ili organizacije i Vladu Bosansko-podrinjskog kantona Goražde (u daljnjem tekstu: Vlada Kantona) i podnosi rukovoditelju zastupanog organa ili organizacije zahtjev za pokretanje disciplinskog postupka radi utvrđivanja disciplinske odgovornosti osobe koja je bila dužna postupiti po zahtjevu Pravobraniteljstva.
+(6) Rukovoditelj zastupanog organa ili organizacije obvezan je pokrenuti postupak iz stavka (5) ovog članka i o postupanju po zahtjevu Pravobraniteljstva za pokretanje postupka utvrđivanja odgovornosti i o ishodu pokrenutog postupka ovlaštena osoba je dužna obavijestiti Pravobraniteljstvo koje je dužno protiv osobe za koju je utvrđena disciplinska odgovornost podnijeti zahtjev za naknadu pričinjene štete.

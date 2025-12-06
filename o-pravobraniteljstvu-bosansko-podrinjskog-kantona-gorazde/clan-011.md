@@ -1,0 +1,7 @@
+Članak 11.
+(Dostavljanje dokumentacije i disciplinska odgovornost)
+(1) Državni i drugi organi, poduzeća i druge pravne osobe iz članka 9. ovog Zakona dužni su blagovremeno obavijestiti Pravobraniteljstvo o slučajevima u kojima je ono ovlašteno da ih zastupa i ulaže pravna sredstva i poduzima druge zakonom određene pravne radnje i da mu dostave svu potrebnu dokumentaciju.
+(2) Poslove zastupanja organa i pravnih osoba iz članka 9. ovog Zakona Pravobraniteljstvo vrši u svim sudskim postupcima i upravnom postupku, sukladno zakonu.
+(3) Pravobraniteljstvo može zastupati državne organe koji su tuženi u upravnom sporu, ako ga oni na to ovlaste, kada je povrijeđena imovina i imovinski interesi Kantona.
+(4) Ukoliko pravomoćnom presudom bude utvrđen nezakonit rad ili odluka zastupanog organa ili organizacije, Pravobraniteljstvo o tome obavještava ministarstvo koje je ovlašteno da vrši nadzor nad radom tog organa ili organizacije i Vladu Kantona i podnosi rukovoditelju zastupanog organa ili organizacije zahtjev za pokretanje disciplinskog postupka radi utvrđivanja odgovornosti za nezakonit rad ili nezakonitu odluku.
+(5) Rukovoditelj zastupanog organa ili organizacije obvezan je pokrenuti postupak iz stavka (4) ovog članka i o postupanju po zahtjevu Pravobraniteljstva za pokretanje postupka utvrđivanja odgovornosti i ishodu pokrenutog postupka ovlaštena osoba je dužna obavijestiti Pravobraniteljstvo.

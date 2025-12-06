@@ -1,0 +1,3 @@
+Članak 23.
+(Uvjeti za imenovanje)
+Za pravobranitelja i njegovog zamjenika može biti imenovan državljanin Bosne i Hercegovine i Federacije Bosne i Hercegovine koji je diplomirani pravnik ili bakalaureat/bachelor prava sa ostvarenih 240 ECTS studijskih bodova Bolonjskog sustava studiranja i ima položen pravosudni ispit i iskustvo u radu na pravnim poslovima u Pravobraniteljstvu, pravosudnim organima ili u drugim državnim organima, poduzećima i drugim pravnim osobama u trajanju od najmanje pet godina, koji je radeći u tim organima i pravnim osobama stekao ugled pravnog stručnjaka i koji posjeduje najviše moralne osobine za obavljanje službe pravobranitelja.

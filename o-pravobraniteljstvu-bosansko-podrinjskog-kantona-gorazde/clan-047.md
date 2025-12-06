@@ -1,0 +1,7 @@
+Članak 47.
+(Uvjeti, svečana izjava i službena legitimacija)
+(1) Za gradskog, odnosno općinskog pravobranitelja i zamjenika pravobranitelja može biti imenovan državljanin Bosne i Hercegovine i Federacije Bosne i Hercegovine koji je diplomirani pravnik ili bakalaureat/bachelor prava sa ostvarenih 240 ECTS studijskih bodova Bolonjskog sustava studiranja i ima položen pravosudni ispit i iskustvo u radu na pravnim poslovima u Pravobraniteljstvu, pravosudnim organima ili u drugim državnim organima, poduzećima i drugim pravnim osobama, u trajanju od najmanje pet godina, koji je radeći u tim organima i pravnim osobama stekao ugled pravnog stručnjaka i koji posjeduje najviše moralne osobine za obavljanje službe pravobranitelja.
+(2) Gradski, odnosno općinski pravobranitelj i njegov zamjenik daju svečanu izjavu pred predsjedateljm Gradskog, odnosno općinskog vijeća.
+(3) Tekst svečane izjave, shodno odredbama članka 25. stavak (2) ovog Zakona, utvrđuje Gradsko, odnosno općinsko vijeće.
+(4) Unutarnju organizaciju u Pravobraniteljstvu Grada, odnosno općine, utvrđuje pravobranitelj Pravilnikom o unutarnjoj organizaciji i sistematizaciji Pravobraniteljstva, po prethodno pribavljenoj suglasnosti Gradskog, odnosno općinskog vijeća.
+(5) Službenu legitimaciju Gradskog, odnosno općinskog pravobranitelja i njegovog zamjenika izdaje gradonačelnik, odnosno općinski načelnik, odgovarajućom primjenom Pravilnika o službenoj legitimaciji pravobranitelja i zamjenika pravobranitelja iz članka 6. stavak (2) ovog Zakona.
