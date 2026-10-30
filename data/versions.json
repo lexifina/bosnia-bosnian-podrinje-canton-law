@@ -1,0 +1,61 @@
+{
+ "country": "BA-05",
+ "acts": [
+  {
+   "slug": "o-poljoprivrednoj-savjetodavnoj-sluzbi-bosansko-podrinjskog",
+   "short": "Zakon o poljoprivrednoj savjetodavnoj službi Bosansko-podrin",
+   "title": "Zakon o poljoprivrednoj savjetodavnoj službi Bosansko-podrinjskog kantona Goražde",
+   "url": "https://bpkg.gov.ba/media/images/2011/07/Broj-15.pdf",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 26,
+     "source_url": "https://bpkg.gov.ba/media/images/2011/07/Broj-15.pdf",
+     "sha256": "0674e684b73f0cce3407dc0fb69dbf75006eb6cff2236cc27960fde82ee57786"
+    }
+   ]
+  },
+  {
+   "slug": "o-uredjenju-saobracaja-na-podrucju-bosansko-podrinjskog-kant",
+   "short": "Zakon o uređenju saobraćaja na području Bosansko-podrinjskog",
+   "title": "Zakon o uređenju saobraćaja na području Bosansko-podrinjskog kantona Goražde",
+   "url": "https://bpkg.gov.ba/media/images/2024/03/Broj-2.pdf",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 106,
+     "source_url": "https://bpkg.gov.ba/media/images/2024/03/Broj-2.pdf",
+     "sha256": "6fe58f2bab188d05ec6b5e4136304762b8d388c957fa44f2b46a18d35564ef68"
+    }
+   ]
+  },
+  {
+   "slug": "o-pravobraniteljstvu-bosansko-podrinjskog-kantona-gorazde",
+   "short": "Zakon o pravobraniteljstvu Bosansko-podrinjskog kantona Gora",
+   "title": "Zakon o pravobraniteljstvu Bosansko-podrinjskog kantona Goražde",
+   "url": "https://bpkg.gov.ba/media/images/2025/12/novine-12-25.pdf",
+   "versions": [
+    {
+     "from": "2025-12-06",
+     "units": 60,
+     "source_url": "https://bpkg.gov.ba/media/images/2025/12/novine-12-25.pdf",
+     "sha256": "e1b6cbe53d59f3b464c5109f75870ac78f579e25d9cccc30a9ba7067b7c81cd7"
+    }
+   ]
+  },
+  {
+   "slug": "o-visokom-obrazovanju",
+   "short": "Закон о високом образовању",
+   "title": "Закон о високом образовању",
+   "url": "https://bpkg.gov.ba/media/images/2011/07/novine-3-26-2-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 164,
+     "source_url": "https://bpkg.gov.ba/media/images/2011/07/novine-3-26-2-1.pdf",
+     "sha256": "ee093ef0523687c87c6637ed73d89719ad86a36047aa48b77d49de94c3757073"
+    }
+   ]
+  }
+ ]
+}

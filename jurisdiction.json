@@ -1,0 +1,11 @@
+{
+  "path": "ba-05",
+  "code": "BA-05",
+  "name": "Bosnian-Podrinje Canton Goražde",
+  "level": "canton",
+  "parent": "ba-bih",
+  "repo": "https://github.com/lexifina/bosnia-bosnian-podrinje-canton-law",
+  "build": "built: laws of 2022-2026 that nothing later amends, each as enacted, from the Službene novine Bosansko-podrinjskog kantona Goražde",
+  "language": "bs",
+  "sources": 1
+}
