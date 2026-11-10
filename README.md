@@ -49,6 +49,7 @@ The gazette is set in two justified columns and breaks words at line ends with a
 The author of a commit is the law that made it, named by its gazette number, with an e-mail address that cannot exist (`<key>@bpkg.gov.ba.invalid`). The committer is always Lexifina.
 
 
+
 ## Freshness
 
 <!-- freshness-summary -->
