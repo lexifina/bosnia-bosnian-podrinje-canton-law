@@ -1,0 +1,1100 @@
+{
+"note": "In-scope acts held back from main, with the reason and the official page.",
+"count": 130,
+"acts": [
+{
+"act": "O IZVRŠENJU BUDŽETA BOSANSKO-PODRINJSKOG KANTONA GORAŽDE ZA 2011. GODINU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2011",
+"date": "2011-04-04",
+"act_no": 185,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/dokumenti/sluzbene_novine/2011/novine-05-11.pdf"
+},
+{
+"act": "O IMOVINI BOSANSKO– PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2011",
+"date": "2011-04-04",
+"act_no": 193,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/dokumenti/sluzbene_novine/2011/novine-05-11.pdf"
+},
+{
+"act": "О СРЕДЊЕМ ОБРАЗОВАЊУ И ОДГОЈУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 10/2011",
+"date": "2011-07-04",
+"act_no": 431,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-11-1.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O ADMINISTRATIVNIM TAKSAMA BOSANSKO – PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 2/2012",
+"date": "2012-02-29",
+"act_no": 108,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-02-12.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O OSNIVANJU JAVNE USTANOVE „DOM ZA STARA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 2/2012",
+"date": "2012-02-29",
+"act_no": 110,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-02-12.pdf"
+},
+{
+"act": "O ZAŠTITI PRAVA PRIPADNIKA NACIONALNIH MANJINA U BOSANSKO – PODRINJSKOM KANTONU GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 385,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Mješovita srednja škola „Enver Pozderović“ Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 389,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Srednja stručna škola „Džemal Bijedić “ Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 391,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Srednja tehnička škola „Hasib Hadžović “ Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 393,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Osnovna škola „Fahrudin Fahro Baščelija“ Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 395,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Osnovna škola „Husein efendija Đozo“ Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 397,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Osnovna škola „Mehmedalija Mak Dizdar“ Vitkovići",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 399,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Osnovna škola „Hasan Turčalo Brzi“ Ilovača",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 401,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Osnovna škola „Ustikolina“ Ustikolina",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 403,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Osnovna škola „Prača“",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 405,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju prava osnivača nad Javnom ustanovom Osnovna muzička škola „Avdo Smailović“ Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2012",
+"date": "2012-05-29",
+"act_no": 407,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-12.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O RADIO-TELEVIZIJI BOSANSKO – PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 11/2012",
+"date": "2012-08-01",
+"act_no": 547,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-11-12.pdf"
+},
+{
+"act": "o dopunama Zakona o Radio – televiziji Bosansko podrinjskog kantona Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2012",
+"date": "2012-11-06",
+"act_no": 715,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-121.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o preuzimanju Zakona o državnoj službi u Federaciji Bosne i Hercegovine",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2012",
+"date": "2012-11-06",
+"act_no": 717,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-121.pdf"
+},
+{
+"act": "o dopunama Zakona o kantonalnim ministarstvima i drugim tijelima Kantonalne uprave",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2012",
+"date": "2012-11-06",
+"act_no": 719,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-121.pdf"
+},
+{
+"act": "О ИЗВРШЕЊУ БУЏЕТА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ ЗА 2013. ГОДИНУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 15/2012",
+"date": "2012-12-25",
+"act_no": 848,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-15-12.pdf"
+},
+{
+"act": "O PRUŽANJU BESPLATNE PRAVNE POMOĆI",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 2/2013",
+"date": "2013-02-05",
+"act_no": 122,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-02-13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 2/2013",
+"date": "2013-02-05",
+"act_no": 124,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-02-13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O UPOTREBI GRBA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 2/2013",
+"date": "2013-02-05",
+"act_no": 126,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-02-13.pdf"
+},
+{
+"act": "O ŠUMAMA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 4/2013",
+"date": "2013-03-13",
+"act_no": 252,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-04-13.pdf"
+},
+{
+"act": "O NOVČANIM PODSTICAJIMA U POLJOPRIVREDI I RURALNOM RAZVOJU NA PODRUČJU BOSANSKO-PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 4/2013",
+"date": "2013-03-13",
+"act_no": 255,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-04-13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA IMOVINU, NASLIJEĐE I POKLON",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 4/2013",
+"date": "2013-03-13",
+"act_no": 257,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-04-13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O PROSTORNOM UREĐENJU I GRAĐENJU BOSANSKO – PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 4/2013",
+"date": "2013-03-13",
+"act_no": 259,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-04-13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OD BUKE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 4/2013",
+"date": "2013-03-13",
+"act_no": 261,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-04-13.pdf"
+},
+{
+"act": "O JAVNO - PRIVATNOM PARTNERSTVU BOSANSKO-PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2013",
+"date": "2013-04-05",
+"act_no": 328,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-5-13.pdf"
+},
+{
+"act": "О УПОТРЕБИ ГРБА И ЗАСТАВЕ БОСАНСКО – ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ -ПРЕЧИШЋЕНИ ТЕКСТ-",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 6/2013",
+"date": "2013-05-06",
+"act_no": 436,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-06-13.pdf"
+},
+{
+"act": "O SPREČAVANJU NASILJA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 7/2013",
+"date": "2013-05-30",
+"act_no": 518,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-07-13.pdf"
+},
+{
+"act": "O PROSTORNOM UREĐENJU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 7/2013",
+"date": "2013-05-30",
+"act_no": 521,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-07-13.pdf"
+},
+{
+"act": "law no. 667",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 9/2013",
+"date": "2013-07-30",
+"act_no": 667,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2013/08/novine-09-13.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О РАДИО-ТЕЛЕВИЗИЈИ БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 9/2013",
+"date": "2013-07-30",
+"act_no": 669,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2013/08/novine-09-13.pdf"
+},
+{
+"act": "О НЕПРОФИТНО-СОЦИЈАЛНОМ СТАНОВАЊУ БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 9/2013",
+"date": "2013-07-30",
+"act_no": 671,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2013/08/novine-09-13.pdf"
+},
+{
+"act": "О КОМУНАЛНИМ ДЈЕЛАТНОСТИМА",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 9/2013",
+"date": "2013-07-30",
+"act_no": 673,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2013/08/novine-09-13.pdf"
+},
+{
+"act": "о министарствима и другим тијелима Кантоналне управе Босанско – подрињског кантона Горажде",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 9/2013",
+"date": "2013-07-30",
+"act_no": 675,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2013/08/novine-09-13.pdf"
+},
+{
+"act": "О ДОПУНСКИМ ПРАВИМА БРАНИЛАЦА И ЧЛАНОВА ЊИХОВИХ ПОРОДИЦА У БОСАНСКО – ПОДРИЊСКОМ КАНТОНУ ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 9/2013",
+"date": "2013-07-30",
+"act_no": 677,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2013/08/novine-09-13.pdf"
+},
+{
+"act": "О НАБАВЉАЊУ, ДРЖАЊУ И НОШЕЊУ ОРУЖЈА И МУНИЦИЈЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 9/2013",
+"date": "2013-07-30",
+"act_no": 679,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2013/08/novine-09-13.pdf"
+},
+{
+"act": "О АДМИНИСТРАТИВНИМ ТАКСАМА БОСАНСКО–ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 12/2013",
+"date": "2013-10-10",
+"act_no": 852,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-13.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О СОЦИЈАЛНОЈ ЗАШТИТИ, ЗАШТИТИ ЦИВИЛНИХ ЖРТАВА РАТА И ЗАШТИТИ ПОРОДИЦЕ СА ДЈЕЦОМ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 12/2013",
+"date": "2013-10-10",
+"act_no": 854,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-13.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o ministarstvima i drugim tijelima Kantonalne uprave Bosansko – podrinjskog kantona Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2013",
+"date": "2013-11-05",
+"act_no": 915,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVNOM ODGOJU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 14/2013",
+"date": "2013-11-26",
+"act_no": 984,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-14-13.pdf"
+},
+{
+"act": "O IZVRŠENJU BUDŽETA BOSANSKO-PODRINJSKOG KANTONA GORAŽDE ZA 2014. GODINU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 16/2013",
+"date": "2013-12-31",
+"act_no": 1022,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-16-13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O PROSTORNOM UREĐENJU I GRAĐENJU BOSANSKO–PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 16/2013",
+"date": "2013-12-31",
+"act_no": 1035,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-16-13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O JAVNIM PRIZNANJIMA BOSANSKO-PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 16/2016",
+"date": "2016-12-22",
+"act_no": 974,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-16-16.pdf"
+},
+{
+"act": "О ИЗВРШЕЊУ БУЏЕТА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ ЗА 2017. ГОДИНУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 4/2017",
+"date": "2017-04-05",
+"act_no": 180,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-4-17.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ВИСОКОМ ОБРАЗОВАЊУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 10/2017",
+"date": "2017-10-18",
+"act_no": 766,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2017/10/novine-10-17.pdf"
+},
+{
+"act": "О НАБАВЉАЊУ, ДРЖАЊУ И НОШЕЊУ ОРУЖЈА И МУНИЦИЈЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 10/2017",
+"date": "2017-10-18",
+"act_no": 769,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2017/10/novine-10-17.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ПРИПАДНОСТИ ЈАВНИХ ПРИХОДА У БОСАНСКО-ПОДРИЊСКОМ КАНТОНУ ГОРАЖДЕ И ФИНАНСИРАЊУ БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2017",
+"date": "2017-12-29",
+"act_no": 997,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-17.pdf"
+},
+{
+"act": "О ИЗВРШЕЊУ БУЏЕТА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ ЗА 2018. ГОДИНУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2017",
+"date": "2017-12-29",
+"act_no": 1001,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-17.pdf"
+},
+{
+"act": "О ДРЖАВНОЈ СЛУЖБИ У БОСАНСКО – ПОДРИЊСКОМ КАНТОНУ ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 3/2018",
+"date": "2018-02-06",
+"act_no": 114,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-3-18.pdf"
+},
+{
+"act": "o izmjenama Zakona o sudskim taksama",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 10/2018",
+"date": "2018-08-31",
+"act_no": 633,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-18-1.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU BUDŽETA BOSANSKO-PODRINJSKOG KANTONA GORAŽDE ZA 2018. GODINU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 10/2018",
+"date": "2018-08-31",
+"act_no": 635,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-18-1.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O POLICIJSKIM SLUŽBENICIMA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 10/2018",
+"date": "2018-08-31",
+"act_no": 644,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-18-1.pdf"
+},
+{
+"act": "О ИЗВРШЕЊУ БУЏЕТА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ ЗА 2019. ГОДИНУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 3/2019",
+"date": "2019-03-28",
+"act_no": 97,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-3-19.pdf"
+},
+{
+"act": "О УНАПРЈЕЂЕЊУ ЛОКАЛНОГ ПОСЛОВАЊА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ (ОПШТЕ ОДРЕДБЕ)",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 12/2019",
+"date": "2019-09-17",
+"act_no": 500,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-19.pdf"
+},
+{
+"act": "о измјенама и допунама Закона о образовању одраслих Босанско-подрињског кантона Горажде",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 12/2019",
+"date": "2019-09-17",
+"act_no": 502,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-19.pdf"
+},
+{
+"act": "O POLICIJSKIM SLUŽBENICIMA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2019",
+"date": "2019-11-05",
+"act_no": 607,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-19.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMAMA BOSANSKO-PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2019",
+"date": "2019-11-05",
+"act_no": 611,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-19.pdf"
+},
+{
+"act": "O DOPUNAMA ZAKONA O IZVRŠENJU PRORAČUNA BOSANSKO-PODRINJSKOG KANTONA GORAŽDE ZA 2020. GODINU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2020",
+"date": "2020-05-22",
+"act_no": 336,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-05-20.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2020",
+"date": "2020-12-31",
+"act_no": 974,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-20.pdf"
+},
+{
+"act": "O PRIZNAVANJU INOZEMNIH VISOKOŠKOLSKIH OBRAZOVNIH KVALIFIKACIJA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 4/2021",
+"date": "2021-04-19",
+"act_no": 280,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://bpkg.gov.ba/media/images/2024/12/novine-4-21.pdf"
+},
+{
+"act": "O BORAVIŠNOJ PRISTOJBI BOSANSKO-PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 4/2021",
+"date": "2021-04-19",
+"act_no": 284,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/media/images/2024/12/novine-4-21.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА ЗАКОНА О КОМУНАЛНИМ ДЈЕЛАТНОСТИМА",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2021",
+"date": "2021-05-16",
+"act_no": 343,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-05-21-compress.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMAMA",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 9/2021",
+"date": "2021-09-21",
+"act_no": 631,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-09-21.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ПОЛИЦИЈСКИМ СЛУЖБЕНИЦИМА",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 11/2021",
+"date": "2021-11-19",
+"act_no": 869,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-11-21.pdf"
+},
+{
+"act": "O PLAĆAMA I NAKNADAMA U ORGANIMA VLASTI BOSANSKO-PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 12/2021",
+"date": "2021-12-31",
+"act_no": 960,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-21_compressed.pdf"
+},
+{
+"act": "O IZVRŠENJU BUDŽETA BOSANSKO-PODRINJSKOG KANTONA GORAŽDE ZA 2022. GODINU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 12/2021",
+"date": "2021-12-31",
+"act_no": 964,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-21_compressed.pdf"
+},
+{
+"act": "o izmjenama Zakona o turizmu Bosansko-podrinjskog kantona Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 3/2022",
+"date": "2022-03-14",
+"act_no": 178,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2022/03/novine-03-22_compressed.pdf"
+},
+{
+"act": "О ДОПУНИ ЗАКОНА О ИНСПЕКЦИЈАМА У БОСАНСКО-ПОДРИЊСКОМ КАНТОНУ ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2022",
+"date": "2022-06-03",
+"act_no": 374,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/dokumenti/novine-05-22.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ДОПУНСКИМ ПРАВИМА БРАНИЛАЦА И ЧЛАНОВА ЊИХОВИХ ПОРОДИЦА У БОСАНСКО-ПОДРИЊСКОМ КАНТОНУ ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2022",
+"date": "2022-06-03",
+"act_no": 376,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/dokumenti/novine-05-22.pdf"
+},
+{
+"act": "О СОЦИЈАЛНОЈ ЗАШТИТИ, ЗАШТИТИ ЦИВИЛНИХ ЖРТАВА РАТА И ЗАШТИТИ ПОРОДИЦА СА ДЈЕЦОМ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2022",
+"date": "2022-09-16",
+"act_no": 710,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2022/10/novine-08-22.pdf"
+},
+{
+"act": "О ИЗМЈЕНИ ЗАКОНА О КОМУНАЛНИМ ТАКСАМА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2022",
+"date": "2022-09-16",
+"act_no": 712,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2022/10/novine-08-22.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ШУМАМА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2022",
+"date": "2022-09-16",
+"act_no": 714,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2022/10/novine-08-22.pdf"
+},
+{
+"act": "O IZVRŠENJU PRORAČUNA BOSANSKO-PODRINJSKOG KANTONA GORAŽDE ZA 2023. GODINU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 1/2023",
+"date": "2023-01-25",
+"act_no": 7,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://www.bpkg.gov.ba/dokumenti/sluzbene_novine/novine-01-23.pdf"
+},
+{
+"act": "law no. 297",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2023",
+"date": "2023-05-05",
+"act_no": 297,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: fewer than two articles",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2023/05/Broj-5.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ОСНОВНОМ ОДГОЈУ И ОБРАЗОВАЊУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 8/2023",
+"date": "2023-06-30",
+"act_no": 587,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/Broj-8.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNI ZAKONA O PLAĆAMA I NAKNADAMA U ORGANIMA VLASTI BOSANSKO-PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2023",
+"date": "2023-10-28",
+"act_no": 1067,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2023/11/Broj-13.pdf"
+},
+{
+"act": "O IZVRŠENJU PRORAČUNA BOSANSKO-PODRINJSKOG KANTONA GORAŽDE ZA 2024. GODINU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 16/2023",
+"date": "2023-12-29",
+"act_no": 1308,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2024/01/Broj-16.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O NABAVLJANJU, DRŽANJU I NOŠENJU ORUŽJA I MUNICIJE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 16/2023",
+"date": "2023-12-29",
+"act_no": 1312,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2024/01/Broj-16.pdf"
+},
+{
+"act": "O DOPUNSKIM PRAVIMA BRANILACA I ČLANOVA NJIHOVIH PORODICA U BOSANSKO – PODRINJSKOM KANTONU GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 2/2024",
+"date": "2024-03-11",
+"act_no": 177,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2024/03/Broj-2.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o novčanim podsticajima u poljoprivredi i ruralnom razvoju na području Bosansko-podrinjskog kantona Goražde",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 2/2024",
+"date": "2024-03-11",
+"act_no": 183,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2024/03/Broj-2.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О СРЕДЊЕМ ОБРАЗОВАЊУ И ОДГОЈУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 4/2024",
+"date": "2024-04-30",
+"act_no": 424,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2011/07/Broj-4.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNOJ SLUŽBI U BOSANSKO-PODRINJSKOM KANTONU GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2024",
+"date": "2024-05-21",
+"act_no": 534,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2024/05/novine-05-24.pdf"
+},
+{
+"act": "O IZMJENI I DOPUNI ZAKONA O PLAĆAMA I NAKNADAMA U ORGANIMA VLASTI BOSANSKO-PODRINJSKOG KANTONA GORAŽDE",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 5/2024",
+"date": "2024-05-21",
+"act_no": 536,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2024/05/novine-05-24.pdf"
+},
+{
+"act": "О ИЗВРШЕЊУ БУЏЕТА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ ЗА 2025. ГОДИНУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 1/2025",
+"date": "2025-02-03",
+"act_no": 14,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2025/02/novine-1-25.pdf"
+},
+{
+"act": "O DOPUNI ZAKONA O OSNOVNOM ODGOJU I OBRAZOVANJU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 6/2025",
+"date": "2025-06-04",
+"act_no": 494,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2025/06/Broj-6.pdf"
+},
+{
+"act": "O DOPUNI ZAKONA O SREDNJEM OBRAZOVANJU I ODGOJU",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 6/2025",
+"date": "2025-06-04",
+"act_no": 496,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2025/06/Broj-6.pdf"
+},
+{
+"act": "О ИЗМЈЕНИ ЗАКОНА О КОМУНАЛНИМ ТАКСАМА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 7/2025",
+"date": "2025-07-14",
+"act_no": 654,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2011/07/Broj-7-2.pdf"
+},
+{
+"act": "О ИЗВРШЕЊУ БУЏЕТА БОСАНСКО-ПОДРИЊСКОГ КАНТОНА ГОРАЖДЕ ЗА 2026. ГОДИНУ",
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde 13/2025",
+"date": "2025-12-29",
+"act_no": 1249,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://bpkg.gov.ba/ocms/../media/images/2026/01/novine-13-25.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (5 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/sluzbene-novine-5-16.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2015/12/novine-12-15bos1.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-04-12.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-03-16-1.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-06-14-pdf.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (4 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-8-151.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-04-14.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-2-151.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-16-1.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (4 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-11-151.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-14.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-11.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-151.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-09-153.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-06-16.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-05-17bos.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-01-151.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2014/07/novine-09-14.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (9 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-15-19.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (3 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2015/01/novine-15-141.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2014/08/novine-11-14.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-5-151.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-7-17.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-06-151.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-07-14.pdf"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 1997",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "1 issues read, 3 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 1999",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "1 issues read, 3 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2000",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "1 issues read, 1 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2001",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "1 issues read, 1 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2002",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "1 issues read, 3 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2004",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "1 issues read, 1 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2005",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "15 issues read, 5 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2006",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "17 issues read, 2 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2007",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "19 issues read, 4 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2008",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "17 issues read, 9 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2009",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "15 issues read, 7 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, 2010",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "17 issues read, 11 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+},
+{
+"act": null,
+"gazette": "Službene novine Bosansko-podrinjskog kantona Goražde, undated",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "22 issues read, 16 ZAKON headings printed (all editions counted), 2 image-only issues; 0 laws read",
+"official_url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde"
+}
+]
+}

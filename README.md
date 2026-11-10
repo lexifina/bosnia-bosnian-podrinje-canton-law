@@ -14,9 +14,15 @@ Each law is kept in the language and script of the gazette issue it was publishe
 
 ## What this repository holds
 
-Laws the Assembly of Bosnian-Podrinje Canton Goražde published in the Službene novine Bosansko-podrinjskog kantona Goražde from 2022 to September 2026 (all 64 issues on the site in that span) that no later law in those issues amends, repeals or consolidates, each as enacted, dated the day it took effect, which is therefore also its current text.
+The canton publishes the Službene novine Bosansko-podrinjskog kantona Goražde on its site for 1997 to 2026; every issue listed there is read. Of the 125 Assembly laws the reader finds in them, 33 are here (from 2014), as:
 
-Not included yet: the Constitution of the Canton; laws that were later amended; amending, repealing and budget laws; laws before 2022.
+- the law as enacted, dated the day it took effect; where later laws in the gazette amend it and no official consolidated text has been published since, it is marked `amended, not consolidated` and the amending laws are named (4 laws added on 2026-11-09);
+- amending laws, each as an act of its own (20 added on 2026-11-09);
+- official consolidated texts (prečišćeni tekst), dated the day of their issue (0 added on 2026-11-09).
+
+The first build (October 2026) holds its laws in folders named after them; laws added later are in `zakon/<year>/sn<issue>-<act number>/`, indexed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json).
+
+Held back, with the reason, in [data/held.json](data/held.json) (92 laws): budget laws and laws amending them (temporary), texts that do not split into articles, laws whose in-force clause cannot be read, and texts a second, independent PDF reader does not confirm. Gazette years whose issues the reader cannot yet read (1997, 1999, 2000, 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, undated) are listed in data/held.json with the reason; their laws are not in the record. 25 issues could not be read or dated and are listed there too.
 
 ## Dates
 
@@ -35,13 +41,21 @@ The gazette is set in two justified columns and breaks words at line ends with a
 
 - Every version is read back from git on the day it took effect and on the day before; both must match `corpus.json`.
 - The letters and digits of every law equal those of the gazette issue, read independently with a different PDF reader, from the first paragraph to the last article; the signature block's lines all occur in it.
-- Whether a law was later amended or repealed is judged from every later law in the scanned issues (a law is left out when a later amending law cites its gazette number next to a word of its subject, or any later law cites it next to words of repeal). Decisions of the Constitutional Court are not checked.
+- Whether a law was later amended or repealed is judged from every later law in the scanned issues (a law is marked `amended, not consolidated` when a later amending law cites its gazette number next to a word of its subject, or any later law cites it next to words of repeal). Decisions of the Constitutional Court are not checked.
 - Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
 
 ## What "author" means
 
 The author of a commit is the law that made it, named by its gazette number, with an e-mail address that cannot exist (`<key>@bpkg.gov.ba.invalid`). The committer is always Lexifina.
 
+## Freshness
+
+<!-- freshness-summary -->
+Checked against the official sources: 2026-11-09; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+<!-- /freshness-summary -->
+
+`python tools/freshness.py <act>` gives an act's status, its last check and the official link. A refresh runner re-reads the canton's list of gazette issues every day (at most two requests a second), reads every new issue, appends new laws and writes these files; [data/status.json](data/status.json) says whether updates are running and whether the source is answering. Acts a later law amends with no official consolidated text are marked `amended, not consolidated` and name the amending laws ([registry/data/acts.json](registry/data/acts.json)); laws and gazette years held back are listed with the reason in [data/held.json](data/held.json), and laws published but not yet in force in [data/pending.json](data/pending.json). Statuses and fields: [data/freshness.json](data/freshness.json).
+
 ## Limits
 
-This is not an official publication. The binding text is the one published in the Službene novine Bosansko-podrinjskog kantona Goražde. Only the laws listed in `data/versions.json` are included; amendments published after the last issue read are not in the record.
+This is not an official publication. The binding text is the one published in the Službene novine Bosansko-podrinjskog kantona Goražde. Only the laws listed in `data/versions.json` and `registry/data/acts.json` are included; amendments published after the last issue read are not in the record.
