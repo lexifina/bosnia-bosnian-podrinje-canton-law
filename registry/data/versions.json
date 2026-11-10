@@ -1,0 +1,500 @@
+{
+ "country": "BA-05",
+ "acts": [
+  {
+   "slug": "o-poljoprivrednoj-savjetodavnoj-sluzbi-bosansko-podrinjskog",
+   "path": "o-poljoprivrednoj-savjetodavnoj-sluzbi-bosansko-podrinjskog",
+   "short": "Zakon o poljoprivrednoj savjetodavnoj službi Bosansko-podrin",
+   "title": "Zakon o poljoprivrednoj savjetodavnoj službi Bosansko-podrinjskog kantona Goražde",
+   "url": "https://bpkg.gov.ba/media/images/2011/07/Broj-15.pdf",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 26,
+     "source_url": "https://bpkg.gov.ba/media/images/2011/07/Broj-15.pdf",
+     "sha256": "0674e684b73f0cce3407dc0fb69dbf75006eb6cff2236cc27960fde82ee57786"
+    }
+   ]
+  },
+  {
+   "slug": "o-uredjenju-saobracaja-na-podrucju-bosansko-podrinjskog-kant",
+   "path": "o-uredjenju-saobracaja-na-podrucju-bosansko-podrinjskog-kant",
+   "short": "Zakon o uređenju saobraćaja na području Bosansko-podrinjskog",
+   "title": "Zakon o uređenju saobraćaja na području Bosansko-podrinjskog kantona Goražde",
+   "url": "https://bpkg.gov.ba/media/images/2024/03/Broj-2.pdf",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 106,
+     "source_url": "https://bpkg.gov.ba/media/images/2024/03/Broj-2.pdf",
+     "sha256": "6fe58f2bab188d05ec6b5e4136304762b8d388c957fa44f2b46a18d35564ef68"
+    }
+   ]
+  },
+  {
+   "slug": "o-pravobraniteljstvu-bosansko-podrinjskog-kantona-gorazde",
+   "path": "o-pravobraniteljstvu-bosansko-podrinjskog-kantona-gorazde",
+   "short": "Zakon o pravobraniteljstvu Bosansko-podrinjskog kantona Gora",
+   "title": "Zakon o pravobraniteljstvu Bosansko-podrinjskog kantona Goražde",
+   "url": "https://bpkg.gov.ba/media/images/2025/12/novine-12-25.pdf",
+   "versions": [
+    {
+     "from": "2025-12-06",
+     "units": 60,
+     "source_url": "https://bpkg.gov.ba/media/images/2025/12/novine-12-25.pdf",
+     "sha256": "e1b6cbe53d59f3b464c5109f75870ac78f579e25d9cccc30a9ba7067b7c81cd7"
+    }
+   ]
+  },
+  {
+   "slug": "o-visokom-obrazovanju",
+   "path": "o-visokom-obrazovanju",
+   "short": "Закон о високом образовању",
+   "title": "Закон о високом образовању",
+   "url": "https://bpkg.gov.ba/media/images/2011/07/novine-3-26-2-1.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 164,
+     "source_url": "https://bpkg.gov.ba/media/images/2011/07/novine-3-26-2-1.pdf",
+     "sha256": "ee093ef0523687c87c6637ed73d89719ad86a36047aa48b77d49de94c3757073"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn001-2",
+   "path": "zakon/2014/sn001-2",
+   "short": "Zakon o dopunama zakona o sportu Bosansko-podrinjskog kanton",
+   "title": "Zakon o dopunama zakona o sportu Bosansko-podrinjskog kantona Goražde",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-01-14.pdf",
+   "versions": [
+    {
+     "from": "2014-01-25",
+     "units": 5,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-01-14.pdf",
+     "sha256": "5de61729be9fc98758966c472e53ef80d8a73ab9166035b58108c6f59292c768"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn016-976",
+   "path": "zakon/2016/sn016-976",
+   "short": "Zakon o izmjenama i dopunama zakona o agenciji za privatizac",
+   "title": "Zakon o izmjenama i dopunama zakona o agenciji za privatizaciju u Bosansko-podrinjskom kantonu Goražde",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-16-16.pdf",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 10,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-16-16.pdf",
+     "sha256": "233babae9fdc9a1591474244be8729ba7a997e8c1e31b74b19cf1c90ca2c5fcd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sn013-609",
+   "path": "zakon/2019/sn013-609",
+   "short": "Zakon o izmjenama zakona o nabavljanju, držanju i nošenju or",
+   "title": "Zakon o izmjenama zakona o nabavljanju, držanju i nošenju oružja i municije",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-19.pdf",
+   "versions": [
+    {
+     "from": "2019-11-13",
+     "units": 5,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-13-19.pdf",
+     "sha256": "49539373fb5f34e2d92f5b859790cf981eab70e0843a42ba4b7c5680e9b3343e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn005-334",
+   "path": "zakon/2020/sn005-334",
+   "short": "Zakon o ublažavanju negativnih posljedica uzrokovanih stanje",
+   "title": "Zakon o ublažavanju negativnih posljedica uzrokovanih stanjem nesreće",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-05-20.pdf",
+   "versions": [
+    {
+     "from": "2020-05-23",
+     "units": 16,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-05-20.pdf",
+     "sha256": "5e02a42ec3eb5c05bcf694cdc032a45bebc118a02c4b50f5a6aaa964a94a77c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn005-338",
+   "path": "zakon/2020/sn005-338",
+   "short": "Zakon o izmjenama i dopunama zakona o naknadama plaćama posl",
+   "title": "Zakon o izmjenama i dopunama zakona o naknadama plaćama poslanika i plaćama funkcionera koje bira, imenuje ili čiji izbor i imenovanje potvrđuje skupština Bosansko-podrinjskog kantona Goražde",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-05-20.pdf",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 7,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-05-20.pdf",
+     "sha256": "5e02a42ec3eb5c05bcf694cdc032a45bebc118a02c4b50f5a6aaa964a94a77c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn008-538",
+   "path": "zakon/2020/sn008-538",
+   "short": "Zakon o izmjenama i dopuni zakona o ublažavanju negativnih p",
+   "title": "Zakon o izmjenama i dopuni zakona o ublažavanju negativnih posljedica uzrokovanih stanjem nesreće",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-20.pdf",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 7,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-08-20.pdf",
+     "sha256": "6d0046d4673f63532e6eaea1473ccaee11f9a4e81bca65884cc90f15fb80ef36"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn010-659",
+   "path": "zakon/2020/sn010-659",
+   "short": "Zakon o korištenju, upravljanju",
+   "title": "Zakon o korištenju, upravljanju",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-20.pdf",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 57,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-20.pdf",
+     "sha256": "824b7fb2e5bd31e60b3b180030c2bb99302b81d551987eb6d77a9e92d9d3eb1b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn010-661",
+   "path": "zakon/2020/sn010-661",
+   "short": "Zakon o načinu i uvjetima prikupljanja i utroška namjenskih",
+   "title": "Zakon o načinu i uvjetima prikupljanja i utroška namjenskih sredstava sa podračuna kantonalnog stambenog fonda",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-20.pdf",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 10,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-20.pdf",
+     "sha256": "824b7fb2e5bd31e60b3b180030c2bb99302b81d551987eb6d77a9e92d9d3eb1b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn010-663",
+   "path": "zakon/2020/sn010-663",
+   "short": "Zakon o izmjenama i dopunama zakona o novčanim podsticajima",
+   "title": "Zakon o izmjenama i dopunama zakona o novčanim podsticajima u poljoprivredi i ruralnom razvoju na području Bosansko-podrinjskog kantona Goražde",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-20.pdf",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 22,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-10-20.pdf",
+     "sha256": "824b7fb2e5bd31e60b3b180030c2bb99302b81d551987eb6d77a9e92d9d3eb1b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn004-282",
+   "path": "zakon/2021/sn004-282",
+   "short": "Zakon o izvršenju sankcija u Bosansko-podrinjskom kantonu Go",
+   "title": "Zakon o izvršenju sankcija u Bosansko-podrinjskom kantonu Goražde",
+   "url": "https://bpkg.gov.ba/media/images/2024/12/novine-4-21.pdf",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 54,
+     "source_url": "https://bpkg.gov.ba/media/images/2024/12/novine-4-21.pdf",
+     "sha256": "e0c267e60dda0445817bfe514c3ecbec7cdef98a50682e2a72f3345feb0cbeaa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn007-511",
+   "path": "zakon/2021/sn007-511",
+   "short": "Zakon o kantonalnoj upravi za civilnu zaštitu Bosansko-podri",
+   "title": "Zakon o kantonalnoj upravi za civilnu zaštitu Bosansko-podrinjskog kantona Goražde",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-7-21.pdf",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 15,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-7-21.pdf",
+     "sha256": "2d45398c8bba0a161da42c0d91c90e9f524323c870f4667412395533fc29848c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn007-513",
+   "path": "zakon/2021/sn007-513",
+   "short": "Zakon o nadležnostima organa vlasti Bosansko-podrinjskog kan",
+   "title": "Zakon o nadležnostima organa vlasti Bosansko-podrinjskog kantona Goražde u oblasti zaštite",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-7-21.pdf",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 42,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-7-21.pdf",
+     "sha256": "2d45398c8bba0a161da42c0d91c90e9f524323c870f4667412395533fc29848c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn009-629",
+   "path": "zakon/2021/sn009-629",
+   "short": "Zakon o dopunama i izmjeni zakona o korištenju, upravljanju",
+   "title": "Zakon o dopunama i izmjeni zakona o korištenju, upravljanju i održavanju zajedničkih dijelova",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-09-21.pdf",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 6,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-09-21.pdf",
+     "sha256": "8da299f6135a1c5d3fba04cde2f48f7f191d9939b1d8c5baf927462b707b225d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn009-633",
+   "path": "zakon/2021/sn009-633",
+   "short": "Zakon o robnim rezervama Bosansko-podrinjskog kantona Goražd",
+   "title": "Zakon o robnim rezervama Bosansko-podrinjskog kantona Goražde",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-09-21.pdf",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 41,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-09-21.pdf",
+     "sha256": "8da299f6135a1c5d3fba04cde2f48f7f191d9939b1d8c5baf927462b707b225d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn011-871",
+   "path": "zakon/2021/sn011-871",
+   "short": "Закон о измјени закона о набављању, држању и ношењу оружја и",
+   "title": "Закон о измјени закона о набављању, држању и ношењу оружја и муниције",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-11-21.pdf",
+   "versions": [
+    {
+     "from": "2021-11-27",
+     "units": 5,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-11-21.pdf",
+     "sha256": "c42365ae575740d7d42f0feb170a06344aa2364513dc95218c1d2da4f5423534"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn012-966",
+   "path": "zakon/2021/sn012-966",
+   "short": "Zakon o zaštiti od požara i vatrogastvu na području Bosansko",
+   "title": "Zakon o zaštiti od požara i vatrogastvu na području Bosansko-podrinjskog kantona Goražde",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-21_compressed.pdf",
+   "versions": [
+    {
+     "from": "2022-01-08",
+     "units": 73,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-21_compressed.pdf",
+     "sha256": "c8d13ee4816700e9e19819a47ca8c037aa24068d52e2bfa505cea3d66a0885d6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn012-968",
+   "path": "zakon/2021/sn012-968",
+   "short": "Zakon o izmjenama zakona o kantonalnoj upravi za civilnu zaš",
+   "title": "Zakon o izmjenama zakona o kantonalnoj upravi za civilnu zaštitu Bosansko-podrinjskog kantona Goražde",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-21_compressed.pdf",
+   "versions": [
+    {
+     "from": "2022-01-08",
+     "units": 6,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2011/07/novine-12-21_compressed.pdf",
+     "sha256": "c8d13ee4816700e9e19819a47ca8c037aa24068d52e2bfa505cea3d66a0885d6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn012-1201",
+   "path": "zakon/2022/sn012-1201",
+   "short": "Zakon o izmjenama i dopunama zakona o porezu na imovinu, nas",
+   "title": "Zakon o izmjenama i dopunama zakona o porezu na imovinu, naslijeđe i poklon",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2023/01/novine-12-22-1.pdf",
+   "versions": [
+    {
+     "from": "2022-12-31",
+     "units": 10,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2023/01/novine-12-22-1.pdf",
+     "sha256": "a9d030f024f38b54b26f32b8746cbdfef344e0d50acae084767bb3f00c28635b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn004-166",
+   "path": "zakon/2023/sn004-166",
+   "short": "Zakon o izmjeni zakona o komunalnim djelatnostima",
+   "title": "Zakon o izmjeni zakona o komunalnim djelatnostima",
+   "url": "https://www.bpkg.gov.ba/ocms/../media/images/2023/04/Broj-4.pdf",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 5,
+     "source_url": "https://www.bpkg.gov.ba/ocms/../media/images/2023/04/Broj-4.pdf",
+     "sha256": "9e5373323c755e6b2b6b9c8a1ba540048a9baaf85d9ea4479f5c905dee5532b4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn016-3110",
+   "path": "zakon/2023/sn016-3110",
+   "short": "Zakon o agenciji za razvoj, projektiranje i privatizaciju u",
+   "title": "Zakon o agenciji za razvoj, projektiranje i privatizaciju u Bosansko-podrinjskom kantonu Goražde",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2024/01/Broj-16.pdf",
+   "versions": [
+    {
+     "from": "2024-01-06",
+     "units": 37,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2024/01/Broj-16.pdf",
+     "sha256": "25c2b694d10434e00e4f3e3a7a0be16e7757992a9c89421efc1d5515c43e17f3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn002-181",
+   "path": "zakon/2024/sn002-181",
+   "short": "Zakon o izmjenama i dopunama zakona o socijalnoj zaštiti, za",
+   "title": "Zakon o izmjenama i dopunama zakona o socijalnoj zaštiti, zaštiti civilnih žrtava rata i zaštiti porodica sa djecom",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2024/03/Broj-2.pdf",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 17,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2024/03/Broj-2.pdf",
+     "sha256": "6fe58f2bab188d05ec6b5e4136304762b8d388c957fa44f2b46a18d35564ef68"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn004-426",
+   "path": "zakon/2024/sn004-426",
+   "short": "Закон о измјенама и допунама закона о допунским правима бран",
+   "title": "Закон о измјенама и допунама закона о допунским правима бранилаца и чланова њихових породица у босанско – подрињском кантону горажде",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2011/07/Broj-4.pdf",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 7,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2011/07/Broj-4.pdf",
+     "sha256": "be7a2062e64eee58a00d817d2fcf4e2f1d1c1e895a913f97fa61e120579a3be9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn006-641",
+   "path": "zakon/2024/sn006-641",
+   "short": "Zakon o izmjenama i dopunama zakona o robnim rezervama Bosan",
+   "title": "Zakon o izmjenama i dopunama zakona o robnim rezervama Bosansko-podrinjskog kantona Goražde",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2024/07/Broj-6-2.pdf",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 15,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2024/07/Broj-6-2.pdf",
+     "sha256": "316b2f43dbac2af971c9a42ebdab47f029e6f0ea03abc6dc8ada5bdeff91fa70"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn006-643",
+   "path": "zakon/2024/sn006-643",
+   "short": "Zakon o izmjenama i dopunama zakona o boravišnoj taksi Bosan",
+   "title": "Zakon o izmjenama i dopunama zakona o boravišnoj taksi Bosansko-podrinjskog kantona Goražde",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2024/07/Broj-6-2.pdf",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 14,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2024/07/Broj-6-2.pdf",
+     "sha256": "316b2f43dbac2af971c9a42ebdab47f029e6f0ea03abc6dc8ada5bdeff91fa70"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn009-1015",
+   "path": "zakon/2024/sn009-1015",
+   "short": "Zakon o stavljanju van snage zakona o zaštiti okoliša bosans",
+   "title": "Zakon o stavljanju van snage zakona o zaštiti okoliša bosansko - podrinjskog kantona Goražde",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2024/11/novine-09-24.pdf",
+   "versions": [
+    {
+     "from": "2024-11-09",
+     "units": 6,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2024/11/novine-09-24.pdf",
+     "sha256": "60d90785d6df3f0671fd124fb60c052179a065150c763093594ebdfcb9cec1a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn009-1017",
+   "path": "zakon/2024/sn009-1017",
+   "short": "Zakon o izmjenama i dopunama zakona o taksi prijevozu u Bosa",
+   "title": "Zakon o izmjenama i dopunama zakona o taksi prijevozu u Bosansko-podrinjskom kantonu Goražde",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2024/11/novine-09-24.pdf",
+   "versions": [
+    {
+     "from": "2024-11-09",
+     "units": 8,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2024/11/novine-09-24.pdf",
+     "sha256": "60d90785d6df3f0671fd124fb60c052179a065150c763093594ebdfcb9cec1a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn006-498",
+   "path": "zakon/2025/sn006-498",
+   "short": "Zakon o izmjenama i dopunama zakona o socijalnoj zaštiti, za",
+   "title": "Zakon o izmjenama i dopunama zakona o socijalnoj zaštiti, zaštiti civilnih žrtava rata i zaštiti obitelji sa djecom",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2025/06/Broj-6.pdf",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 15,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2025/06/Broj-6.pdf",
+     "sha256": "7cbbb169f34ca63259772ebee307764bf25f8f1c79b2a458fa6e7d03ab135790"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn007-630",
+   "path": "zakon/2026/sn007-630",
+   "short": "Zakon o izmjenama zakona o prostornom uređenju",
+   "title": "Zakon o izmjenama zakona o prostornom uređenju",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2026/06/novine-7-26.pdf",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 6,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2026/06/novine-7-26.pdf",
+     "sha256": "a66666cc5a2e6128edd65b8466a8ade07c1cab8cf5e51f09322514e17f6e48a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn007-632",
+   "path": "zakon/2026/sn007-632",
+   "short": "Zakon o izmjenama i dopunama zakona o socijalnoj zaštiti, za",
+   "title": "Zakon o izmjenama i dopunama zakona o socijalnoj zaštiti, zaštiti civilnih žrtava rata i zaštiti porodica sa djecom",
+   "url": "https://bpkg.gov.ba/ocms/../media/images/2026/06/novine-7-26.pdf",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 9,
+     "source_url": "https://bpkg.gov.ba/ocms/../media/images/2026/06/novine-7-26.pdf",
+     "sha256": "a66666cc5a2e6128edd65b8466a8ade07c1cab8cf5e51f09322514e17f6e48a6"
+    }
+   ]
+  }
+ ]
+}

@@ -64,3 +64,5 @@ Zakon o pravobraniteljstvu Bosansko-podrinjskog kantona Gora · 1 versions, from
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-pravobraniteljstvu-bosansko-podrinjskog-kantona-gorazde` (tags `o-pravobraniteljstvu-bosansko-podrinjskog-kantona-gorazde/<day>`; `python tools/on.py <day> o-pravobraniteljstvu-bosansko-podrinjskog-kantona-gorazde`).

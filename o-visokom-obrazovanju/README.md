@@ -168,3 +168,5 @@
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-visokom-obrazovanju` (tags `o-visokom-obrazovanju/<day>`; `python tools/on.py <day> o-visokom-obrazovanju`).

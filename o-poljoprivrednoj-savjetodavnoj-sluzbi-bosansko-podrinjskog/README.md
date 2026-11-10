@@ -30,3 +30,5 @@ Zakon o poljoprivrednoj savjetodavnoj službi Bosansko-podrin · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-poljoprivrednoj-savjetodavnoj-sluzbi-bosansko-podrinjskog` (tags `o-poljoprivrednoj-savjetodavnoj-sluzbi-bosansko-podrinjskog/<day>`; `python tools/on.py <day> o-poljoprivrednoj-savjetodavnoj-sluzbi-bosansko-podrinjskog`).
