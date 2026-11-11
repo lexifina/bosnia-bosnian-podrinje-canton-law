@@ -1,17 +1,17 @@
 {
  "note": "Update status of this repository, refreshed by every refresh run.",
- "as_of": "2026-11-10T09:17:40+00:00",
+ "as_of": "2026-11-11T10:37:50+00:00",
  "updates": "idle",
- "last_published": "2026-11-10T09:09:23Z",
+ "last_published": "2026-11-10T09:17:43Z",
  "published_last_24h": {
-  "commits": 3
+  "commits": 0
  },
  "official_sources": [
   {
    "source": "Službene novine Bosansko-podrinjskog kantona Goražde",
    "url": "https://bpkg.gov.ba/sluzbene-novine/7102/sluzbene-novine-bpk-gorazde",
    "state": "available",
-   "last_successful_contact": "2026-11-10"
+   "last_successful_contact": "2026-11-11"
   }
  ]
 }
