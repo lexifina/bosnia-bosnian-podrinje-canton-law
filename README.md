@@ -20,7 +20,7 @@ The canton publishes the Službene novine Bosansko-podrinjskog kantona Goražde 
 - amending laws, each as an act of its own (0 added on 2026-11-09);
 - official consolidated texts (prečišćeni tekst), dated the day of their issue (0 added on 2026-11-09).
 
-The first build (October 2026) holds its laws in folders named after them; laws added later are in `zakon/<year>/sn<issue>-<act number>/`, indexed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json).
+Every law is in `zakon/<year>/sn<issue>-<act number>/`, by the year and issue of the gazette and the act's number in it (`zakon/2023/sn015-1202/`), indexed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json). The first build (October 2026) had its 4 laws in folders at the top named after them until 2026-11-15; [registry/data/paths.json](registry/data/paths.json) maps every act id to its folder, and `git log --follow` and `tools/on.py` read both. Rulebooks (pravilnik) are in `pravilnik/<year>/sn<issue>-<act number>/` (until 2026-11-15 under `norm/ministarstvo-obrazovanja-bpk/`; the issuing ministry is named in each commit). The top level holds only the documentation, one folder per kind of act (`zakon/`, `pravilnik/`), `data/`, `registry/`, `tools/`, `visualisations/` and `vulnerabilities/`.
 
 Held back, with the reason, in [data/held.json](data/held.json) (92 laws): budget laws and laws amending them (temporary), texts that do not split into articles, laws whose in-force clause cannot be read, and texts a second, independent PDF reader does not confirm. Gazette years whose issues the reader cannot yet read (1997, 1999, 2000, 2001, 2002, 2004, 2005, 2006, 2007, 2008, 2009, 2010, undated) are listed in data/held.json with the reason; their laws are not in the record. 25 issues could not be read or dated and are listed there too.
 
@@ -31,7 +31,7 @@ Held back, with the reason, in [data/held.json](data/held.json) (92 laws): budge
 
 ## Files
 
-`<law>/clan-001.md` is Član/Članak 1, `clan-005-a.md` Član 5a. `uvod.md` holds the preamble (the legal basis and the Assembly's adoption), `naslov.md` the title, `potpis.md` the signature block. Chapter headings stay in the file of the article they stand before. One paragraph per line.
+`<folder>/clan-001.md` is Član/Članak 1, `clan-005-a.md` Član 5a. `uvod.md` holds the preamble (the legal basis and the Assembly's adoption), `naslov.md` the title, `potpis.md` the signature block. Chapter headings stay in the file of the article they stand before. One paragraph per line.
 
 ## Line-end hyphens
 
@@ -43,6 +43,7 @@ The gazette is set in two justified columns and breaks words at line ends with a
 - The letters and digits of every law equal those of the gazette issue, read independently with a different PDF reader, from the first paragraph to the last article; the signature block's lines all occur in it.
 - Whether a law was later amended or repealed is judged from every later law in the scanned issues (a law is marked `amended, not consolidated` when a later amending law cites its gazette number next to a word of its subject, or any later law cites it next to words of repeal). Decisions of the Constitutional Court are not checked.
 - Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in Bosnian-Podrinje Canton Goražde law, found by global-law's detectors and checked by hand (a placeholder: the detectors have not been run here yet).
 
 ## What "author" means
 
@@ -63,3 +64,14 @@ Checked against the official sources: 2026-11-11; 100% of acts verified in the l
 ## Limits
 
 This is not an official publication. The binding text is the one published in the Službene novine Bosansko-podrinjskog kantona Goražde. Only the laws listed in `data/versions.json` and `registry/data/acts.json` are included; amendments published after the last issue read are not in the record.
+
+## Visualisations
+
+[visualisations/](visualisations/): charts of Bosnian-Podrinje Canton Goražde law drawn from this repository. A placeholder for now: no charts have been drawn yet.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published

@@ -1,12 +1,12 @@
 {
-"layout": "<kind>/<year>/dv<issue>-<id>",
+"layout": "<kind>/<year>/sn<issue>-<number>",
 "since": "2026-11-10",
 "note": "Act folders before the layout move were named by slug; tools/on.py reads both.",
 "paths": {
-"o-poljoprivrednoj-savjetodavnoj-sluzbi-bosansko-podrinjskog": "o-poljoprivrednoj-savjetodavnoj-sluzbi-bosansko-podrinjskog",
-"o-pravobraniteljstvu-bosansko-podrinjskog-kantona-gorazde": "o-pravobraniteljstvu-bosansko-podrinjskog-kantona-gorazde",
-"o-uredjenju-saobracaja-na-podrucju-bosansko-podrinjskog-kant": "o-uredjenju-saobracaja-na-podrucju-bosansko-podrinjskog-kant",
-"o-visokom-obrazovanju": "o-visokom-obrazovanju",
+"o-poljoprivrednoj-savjetodavnoj-sluzbi-bosansko-podrinjskog": "zakon/2023/sn015-1202",
+"o-pravobraniteljstvu-bosansko-podrinjskog-kantona-gorazde": "zakon/2025/sn012-1199",
+"o-uredjenju-saobracaja-na-podrucju-bosansko-podrinjskog-kant": "zakon/2024/sn002-179",
+"o-visokom-obrazovanju": "zakon/2026/sn003-167",
 "zakon-2014-sn001-2": "zakon/2014/sn001-2",
 "zakon-2016-sn016-976": "zakon/2016/sn016-976",
 "zakon-2019-sn013-609": "zakon/2019/sn013-609",

@@ -71,3 +71,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: the text is read from the gazette PDFs' text layer by a deterministic parser; no model output is legal text.
+
+## Layout change (2026-11-15)
+
+The first build's 4 act folders moved from the top of the repository into zakon/<year>/sn<issue>-<act number>/ (the layout the later builds already use; year and issue of the gazette, the act's number in it); the two rulebooks under norm/ministarstvo-obrazovanja-bpk/2026/ move to pravilnik/2026/ (kind pravilnik, Serbian-layout kind folder; the issuing ministry stays named in each commit), by one commit that changes no law text. `registry/data/paths.json` maps every act id to its folder. `tools/on.py` and `tools/check_repo.py` were updated in that commit to read it and to look in both the old and the new folder, so the builder hashes above are those of the tools as they built the history, before the update.
